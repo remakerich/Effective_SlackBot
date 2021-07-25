@@ -4,4 +4,4 @@
 
 В данном случае бот реагирует на эмоджи "камера" ('camera')
 
-Размещение на heroku (free): https://peaceful-sands-25288.herokuapp.com/slack/events
+Размещение на heroku (free)
